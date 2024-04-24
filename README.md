@@ -51,5 +51,7 @@ The objective of this project is to perform in-depth customer segmentation analy
 [Link to Dataset](https://drive.google.com/file/d/1voLYdHPzdoOsezm3pqiSM29eilMaO9RH/view?usp=sharing)
 
 ## Grouping Result:
-[Link to Grouping Result CSV](https://docs.google.com/spreadsheets/d/1LNCLVU-CVDdbnesaRc3QmGlntIsAlHma/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true)
+- "In the result file, you'll find two sheets. The first sheet displays the customer grouping result, showing which customers belong to each group. The second sheet, named 'all_details,' contains comprehensive information about each group. You can refer to this sheet to explore all the details of any specific group."
+  
+[Grouping Result CSV](https://docs.google.com/spreadsheets/d/1LNCLVU-CVDdbnesaRc3QmGlntIsAlHma/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true)
 
