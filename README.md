@@ -10,7 +10,7 @@ The objective of this project is to perform in-depth customer segmentation analy
 ## Process:
 **I Perform my coding task in google colab and i use google-drive to create links**
 
-* **Exploratory Data Analysis (EDA):**
+* **Data Cleaning & and getting insights:**
     - Conducted thorough data cleaning, including handling missing values, duplicates, and outliers.
     - Utilized descriptive statistics and visualizations to gain insights into the distribution and characteristics of the data.
     - Identified key features that could potentially influence customer segmentation.
