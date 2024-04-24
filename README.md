@@ -3,6 +3,10 @@
 ## Problem Statement:
 The objective of this project is to perform in-depth customer segmentation analysis using electric vehicle (EV) usage data. By segmenting customers based on their EV usage patterns, we aim to assist an EV company in tailoring their marketing strategies and product offerings to specific customer segments. This analysis will enable the company to target the right customer groups effectively, thereby maximizing their marketing efforts and sales potential.
 
+## Size:
+**14 Columns and 3000 Rows**
+- columns are : customer_id, vehicle_name, customer_age, area, current_price, warranty_in_years, emi_facility, top_speed_in_km, km_in_single_charge, charging_time_hours, service_ratings, extra_features	vehicle_weight, colour_availability
+
 ## Process:
 * **Exploratory Data Analysis (EDA):**
     - Conducted thorough data cleaning, including handling missing values, duplicates, and outliers.
