@@ -8,6 +8,8 @@ The objective of this project is to perform in-depth customer segmentation analy
 - columns are : customer_id, vehicle_name, customer_age, area, current_price, warranty_in_years, emi_facility, top_speed_in_km, km_in_single_charge, charging_time_hours, service_ratings, extra_features	vehicle_weight, colour_availability
 
 ## Process:
+**I Perform my coding task in google colab and i use google-drive to create links**
+
 * **Exploratory Data Analysis (EDA):**
     - Conducted thorough data cleaning, including handling missing values, duplicates, and outliers.
     - Utilized descriptive statistics and visualizations to gain insights into the distribution and characteristics of the data.
