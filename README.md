@@ -48,12 +48,8 @@ The objective of this project is to perform in-depth customer segmentation analy
 - Scikit-learn
 
 ## Dataset:
-[Link to Dataset](insert_dataset_link_here)
+[Link to Dataset](https://drive.google.com/file/d/1voLYdHPzdoOsezm3pqiSM29eilMaO9RH/view?usp=sharing)
 
 ## Grouping Result:
-[Link to Grouping Result CSV](insert_grouping_result_link_here)
+[Link to Grouping Result CSV](https://docs.google.com/spreadsheets/d/1LNCLVU-CVDdbnesaRc3QmGlntIsAlHma/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true)
 
----
-
-**Short Story (35-40 words):**
-Conducted thorough analysis on EV usage data for customer segmentation. Employed data cleaning, encoding, scaling, PCA, and k-means clustering techniques to categorize customers. Delivering actionable insights to optimize marketing strategies for an EV company.
