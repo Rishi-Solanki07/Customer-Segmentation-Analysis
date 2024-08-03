@@ -63,7 +63,7 @@ The objective of this project is to perform in-depth customer segmentation analy
 
 ## KMeans Model
 
-I have trained a KMeans clustering model which you can download using the following link:
+To use my KMeans clustering model which you can download using the following link:
 
 [Download KMeans Model](https://drive.google.com/file/d/1BBLBkFG2OnmTDiWlTlWixN2P5L36qcrg/view?usp=sharing)
 
