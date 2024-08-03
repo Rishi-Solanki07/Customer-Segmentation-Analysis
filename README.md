@@ -61,3 +61,26 @@ The objective of this project is to perform in-depth customer segmentation analy
   
 [Grouping Result CSV](https://docs.google.com/spreadsheets/d/1LNCLVU-CVDdbnesaRc3QmGlntIsAlHma/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true)
 
+## KMeans Model
+
+I have trained a KMeans clustering model which you can download using the following link:
+
+[Download KMeans Model](https://drive.google.com/file/d/1BBLBkFG2OnmTDiWlTlWixN2P5L36qcrg/view?usp=sharing)
+
+### How to Use
+
+1. Download the model file from Google Drive.
+2. Load the model using the following code snippet:
+
+```python
+import pickle
+
+# Load the model
+with open('kmeans_model.pkl', 'rb') as file:
+    kmeans_loaded = pickle.load(file)  # Load the KMeans model from the file
+
+# Now you can use the loaded model for predictions
+# Example usage:
+# clusters_loaded = kmeans_loaded.predict(pca_df)
+
+
